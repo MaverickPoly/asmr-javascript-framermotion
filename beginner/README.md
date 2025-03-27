@@ -1,4 +1,4 @@
-# ASMR JavaScript: React Framer Motion
+# Framer Motion Beginner Projects and Programs
 
 This is a repository with small projects and exercises with **React Framer Motion** animation framework. This was made to practice animations and get used to it! The project was made using _Next JS_.
 

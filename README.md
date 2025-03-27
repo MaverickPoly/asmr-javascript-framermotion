@@ -1,4 +1,4 @@
-# Framer Motion Projects
+# ASMR JavaScript: Framer Motion
 
 This repository contains **Framer Motion** practice exercises and projects from _Beginner_ to _Intermediate_ to practice animations in _React_
 
